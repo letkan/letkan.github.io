@@ -35,6 +35,11 @@
   bottom: 0;
   background-color: #333333;
 }
+
+.chromatic-zoom-photo{
+-webkit-filter: brightness(150%); 
+}
+
 .chromatic-zoom div * {
   -webkit-transform: translate3d(0, 0, 0);
   -webkit-backface-visibility: hidden;
