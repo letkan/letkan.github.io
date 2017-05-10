@@ -46,7 +46,8 @@ white-space:nowrap;
 time{
   font-size: 2.0em;
 font-family:'Helvetica', 'Arial', 'Sans-Serif';    
-white-space:nowrap;  
+white-space:nowrap;
+line-height: 1.4em;
 }
 
 p {
