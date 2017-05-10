@@ -1,2 +1,7 @@
 name: Andu Novac, Caine Rau
 markdown: kramdown
+highlighter: true
+collections:
+- images1
+- images2
+permalink: /blog/:year/:month/:day/:title
