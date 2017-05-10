@@ -1,0 +1,25 @@
+{% include head.html %}
+<style type="text/css">body{background-color:#f2f2f2;}</style>
+{% include nav.html %}
+
+
+    <h1>{{ page.title }}</h1>
+    
+
+
+
+    {{ content }}
+    <script script type="text/javascript" charset="utf-8">{% include chromatic-a.txt %}
+   
+   {% for file in site.static_files %}
+  {% if file.extname == ".jpg" and file.path contains '/images2/' %}
+      "{{ file.path }}", 
+      
+  {% endif %}
+{% endfor %} 
+    
+    {% include chromatic-b.txt %}</script>
+   
+
+
+
