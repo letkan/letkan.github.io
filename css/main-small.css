@@ -8,7 +8,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: normal;
-    font-size: 2em;
+    font-size: 2.0em;
     
     display: inline;
 }
@@ -29,13 +29,13 @@ a:hover {
 }
 h1 {
 margin:0;
-padding-left:28px;
-padding-top:10px;
+padding-left:5px;
+padding-top:4px;
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-padding-left:20px;
+padding-left:4px;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
