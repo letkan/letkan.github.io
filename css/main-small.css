@@ -8,14 +8,14 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: normal;
-    font-size: 1em;
+    font-size: 1.8em;
     
     display: inline;
 }
 nav ul li, footer ul li {
     display: inline;
     float:right;
-    margin-left:0px;
+    margin-left:2px;
     margin-right:2px;
     margin-top:4px;
     text-align:right;
