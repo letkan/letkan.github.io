@@ -60,7 +60,7 @@ height:100vh;
 background-image: url("/css/A&B.jpg");
 background-size:100%;
 margin:0 auto;
-background-image: url("/css/A&B.jpg");
+background-image: url("A&B.jpg");
 }
 
 article{
