@@ -20,6 +20,7 @@
   background: grey;
   margin: 4px;
   background-size: cover;
+  -webkit-filter: brightness(150%); 
 }
 .chromatic-gallery-photo:last-child::after {
   display: block;
