@@ -1,2 +1,2 @@
 # letkan.github.io
-images of stuff
+Jekyll site for my pictures and stuff
